@@ -13,9 +13,12 @@ import HelloWorld from './components/HelloWorld.vue'
       <nav>
         <RouterLink to="/">Home</RouterLink>
         <RouterLink to="/about">About</RouterLink>
+<<<<<<< HEAD
         <RouterLink to="/content">Content</RouterLink>
         <RouterLink to="/content">Blog</RouterLink>
 
+=======
+>>>>>>> parent of f735b73 (add content page)
       </nav>
     </div>
   </header>
